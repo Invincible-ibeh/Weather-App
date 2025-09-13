@@ -92,7 +92,15 @@ var data = await response.json();
         checkWeather(searchBox.value);
       });
 
-      checkWeather();
+      // Enable Enter key for search
+      searchBox.addEventListener("keydown", (event) => {
+        if (event.key === "Enter") {
+          checkWeather(searchBox.value);
+        }
+      });
+
+      // Optionally, call with a default city
+      checkWeather("Lagos");
     </script>
   </body>
 </html>
