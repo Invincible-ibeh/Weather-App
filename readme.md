@@ -2,6 +2,8 @@
 
 A simple weather app built with HTML, CSS, and JavaScript.
 
+![Weather App Screenshot](./images/Weather App Screenshot.png)
+
 ## Features
 
 - Search for any city’s weather
@@ -10,7 +12,7 @@ A simple weather app built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[You can check out the live link here]() 
+[You can check out the live link here](https://invincible-ibeh.github.io/Weather-App/) 
 
 ## How to Use
 
