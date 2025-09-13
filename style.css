@@ -92,3 +92,21 @@ body {
   margin-top: 10px;
   display: none;
 }
+
+/* Responsive styles for mobile */
+@media (max-width: 500px) {
+  .card {
+    padding: 20px 10px;
+  }
+  .search input {
+    padding: 8px 15px;
+    height: 45px;
+    font-size: 16px;
+    margin-right: 8px;
+  }
+  .search button {
+    width: 45px;
+    height: 45px;
+  }
+ 
+}

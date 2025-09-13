@@ -2,7 +2,7 @@
 
 A simple weather app built with HTML, CSS, and JavaScript.
 
-![Weather App Screenshot](./images/Weather App Screenshot.png)
+![Weather App Screenshot](<./images/Weather App Screenshot.png>)
 
 ## Features
 
@@ -12,7 +12,7 @@ A simple weather app built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[You can check out the live link here](https://invincible-ibeh.github.io/Weather-App/) 
+[You can check out the live link here](https://invincible-ibeh.github.io/Weather-App/)
 
 ## How to Use
 
